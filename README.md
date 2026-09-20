@@ -27,6 +27,11 @@ I design and operate self-managed Kubernetes clusters where everything, from the
 I write about platform engineering, Kubernetes, GitOps, and Terraform: how the pieces actually fit together, and what breaks when they don't.
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise GitOps at Scale: Build, Package, Configure, Deploy](https://medium.com/@ukatanetech/enterprise-gitops-at-scale-build-package-configure-deploy-3e7a350c3b2f?source=rss-b7f0b3648ba4------2)
+- [Centralizing Authentication and Identity in Kubernetes with Keycloak: Setup and Core Concept](https://medium.com/@ukatanetech/centralizing-authentication-and-identity-in-kubernetes-with-keycloak-setup-and-core-concept-3a78d0c4d395?source=rss-b7f0b3648ba4------2)
+- [3 Patterns for Kubernetes TLS: Why I Settled on NLB Passthrough and cert-manager](https://medium.com/@ukatanetech/3-patterns-for-kubernetes-tls-why-i-settled-on-nlb-passthrough-and-cert-manager-78931b2d5271?source=rss-b7f0b3648ba4------2)
+- [Calico BGP: Resolving “BIRD Not Ready” and Node Readiness Failures](https://medium.com/@ukatanetech/calico-bgp-resolving-bird-not-ready-and-node-readiness-failures-e582ab2dca3c?source=rss-b7f0b3648ba4------2)
+- [Build a Production-Grade Kubernetes Homelab with kubeadm](https://medium.com/@ukatanetech/build-a-production-grade-kubernetes-homelab-with-kubeadm-d561a4fbf1c8?source=rss-b7f0b3648ba4------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@ukatanetech)
