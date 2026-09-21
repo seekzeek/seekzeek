@@ -58,4 +58,4 @@ More on [Medium](https://medium.com/@ukatanetech)
 
 Open to conversations about platform engineering, Kubernetes, and reliability.
 
-[LinkedIn](https://linkedin.com/in/ukatane-zeek) · [Medium](https://medium.com/@ukatanetech) · isaac@ukatane.com
+[LinkedIn](https://linkedin.com/in/ukatane-zeek) · [Medium](https://medium.com/@ukatanetech)
